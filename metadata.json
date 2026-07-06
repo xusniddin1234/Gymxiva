@@ -1,0 +1,6 @@
+{
+  "name": "Apex Athletics",
+  "description": "Apex Athletics - 2 ta gantel yordamida professional mashg'ulotlar va kunlik 5 mahal oqsilli sog'lom ovqatlanish tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
